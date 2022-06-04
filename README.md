@@ -5,7 +5,7 @@ npm use for ulucasfraga.
 
 ## Context table
 
-> Index `README`.
+Index `README`.
 
   - [Setup](#setup)
   - [Installation](#installation)
@@ -22,7 +22,7 @@ Make sure that you are using the NodeJS version is the same as `.nvmrc` file ver
 
 ### Installation
 
-> Please make sure that you are using NodeJS version 6.10.2
+> Please make sure that you are using NodeJS version v16.15.1
 
 Assuming that you are using `nvm`, please run the commands inside this folder:
 
@@ -43,7 +43,7 @@ $ nvm use $(cat .nvmrc); # use nodejs version
 Via Chocolatey:
 
 ```bash
-$ choco install nodejs.install -version 6.10.2
+$ choco install nodejs.install -version v16.15.1
 ```
 
 ### How to use
