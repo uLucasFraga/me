@@ -68,7 +68,7 @@ $ node ./bin/card.js # prints the personal npm
 
 ## Demo
 
-![npx ulucasfraga](https://i.imgur.com/M1elcC5.gif)
+![npx ulucasfraga](https://i.imgur.com/T27IiGt.gif)
 
 ## Author
 

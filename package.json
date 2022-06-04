@@ -1,33 +1,32 @@
 {
-    "name":"ulucasfraga",
-    "version":"1.0.1",
-    "description":"A personal npm for Lucas Fraga (@ulucasfraga)",
-    "main":"index.js",
-    "bin":{
-       "ulucasfraga":"./bin/card.js"
+    "name": "ulucasfraga",
+    "version": "1.0.1",
+    "description": "A personal npm for Lucas Fraga (@ulucasfraga)",
+    "main": "index.js",
+    "bin": {
+        "ulucasfraga": "./bin/card.js"
     },
-    "repository":{
-       "type":"git",
-       "url":"git+https://github.com/ulucasfraga/card.git"
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ulucasfraga/card.git"
     },
-    "scripts":{
-       "start":"node ./bin/card.js",
-       "test":"echo \"Error: no test specified\" && exit 1"
+    "scripts": {
+        "start": "node ./bin/card.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords":[
-       
-    ],
-    "license":"MIT",
-    "dependencies":{
-       "boxen":"^4.2.0",
-       "chalk":"^4.1.0"
+    "keywords": [],
+    "license": "MIT",
+    "dependencies": {
+        "boxen": "^4.2.0",
+        "chalk": "^4.1.0",
+        "ulucasfraga": "^1.0.1"
     },
-    "devDependencies":{
-       "standard":"^14.3.4"
+    "devDependencies": {
+        "standard": "^14.3.4"
     },
-    "bugs":{
-       "url":"https://github.com/ulucasfraga/card/issues"
+    "bugs": {
+        "url": "https://github.com/ulucasfraga/card/issues"
     },
-    "homepage":"https://github.com/ulucasfraga/card#readme",
-    "author":"Lucas Fraga <lucass.fragaa@gmail.com> (https://www.gitshowcase.com/ulucasfraga)"
- }
+    "homepage": "https://github.com/ulucasfraga/card#readme",
+    "author": "Lucas Fraga <lucass.fragaa@gmail.com> (https://www.gitshowcase.com/ulucasfraga)"
+}
