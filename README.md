@@ -81,7 +81,7 @@ $ node ./bin/card.js # prints the personal npm
 ### Support
 
 - Linkedin: <a href="https://www.linkedin.com/in/ulucasfraga/" target="_blank">**Lucas Fraga**</a>
-- Email: lucass.fragaa@gmail.com
+- Email: ulucasfragaa@gmail.com
 -----------------------
 
 ### License
