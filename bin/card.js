@@ -18,11 +18,11 @@ const options = {
 const data = {
   name: chalk.white.bold('Lucas Fraga /'),
   handle: chalk.cyan.bold('@ulucasfraga'),
-  work: chalk.cyan('C6 Bank, QA Engineer'),
+  work: chalk.cyan('Integer, QA Engineer'),
   nominations: chalk.white(
     [
       'Passionate about Software Quality.',
-      '+Infos: https://www.gitshowcase.com/ulucasfraga'
+      'For more info contact me!'
     ].join(newline)
   ),
   medium: chalk.cyan('https://medium.com/@ulucasfraga'),
