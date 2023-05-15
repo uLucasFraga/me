@@ -1,6 +1,6 @@
 {
   "name": "ulucasfraga",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "A personal npm for Lucas Fraga (@ulucasfraga)",
   "main": "index.js",
   "bin": {
@@ -18,8 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "boxen": "^4.2.0",
-    "chalk": "^4.1.0",
-    "ulucasfraga": "^1.0.1"
+    "chalk": "^4.1.0"
   },
   "devDependencies": {
     "standard": "^14.3.4"

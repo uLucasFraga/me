@@ -50,25 +50,27 @@ $ choco install nodejs.install -version v18.12.1
 
 Via npx:
 
-```
-npx ulucasfraga
+```js
+$ npx unistall ulucasfraga
+$ npx i ulucasfraga
+$ npx ulucasfraga
 ```
 
 ### Run locally
 
-```bash
+```js
 $ npm start # prints the personal npm
 ```
 
 or
 
-```bash
+```js
 $ node ./bin/card.js # prints the personal npm
 ```
 
 ## Demo
 
-![npx ulucasfraga](https://i.imgur.com/T27IiGt.gif)
+![npx ulucasfraga](./docs/npx_ulucasfraga.gif)
 
 ## Author
 
