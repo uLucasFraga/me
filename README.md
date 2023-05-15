@@ -22,7 +22,7 @@ Make sure that you are using the NodeJS version is the same as `.nvmrc` file ver
 
 ### Installation
 
-> Please make sure that you are using NodeJS version v16.15.1
+> Please make sure that you are using NodeJS version v18.12.1
 
 Assuming that you are using `nvm`, please run the commands inside this folder:
 
@@ -43,7 +43,7 @@ $ nvm use $(cat .nvmrc); # use nodejs version
 Via Chocolatey:
 
 ```bash
-$ choco install nodejs.install -version v16.15.1
+$ choco install nodejs.install -version v18.12.1
 ```
 
 ### How to use
@@ -89,4 +89,4 @@ $ node ./bin/card.js # prints the personal npm
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2022 © <a href="https://github.com/ulucasfraga" target="_blank">@ulucasfraga</a>
+- Copyright 2023 © <a href="https://github.com/ulucasfraga" target="_blank">@ulucasfraga</a>
